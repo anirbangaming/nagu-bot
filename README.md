@@ -1,0 +1,2 @@
+# nagu-bot
+fun bot

@@ -113,4 +113,4 @@ client.on('messageCreate', async (Message) => {
     }
 
 })
-client.login(config.token)
+client.login(token)
